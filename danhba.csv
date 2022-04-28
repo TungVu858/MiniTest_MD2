@@ -1,2 +1,5 @@
-DanhBa{name='Đạt', phoneNumber=223, adress='HN', nhom='ga', gender='Nam'}
-DanhBa{name='Tùng', phoneNumber=123, adress='Hn', nhom='Vip', gender='Nam'}
+name,sđt,tuổi,địa chỉ,email,nhóm,giới tính,user 
+Tùng,1,29,HN,1,1,Nam,tung
+Tùng,123,29,HN,abc,1,Nam,tung
+Đạt,12345,25,HN,acv,1,Nam,tung
+abc,99999,24,HN,1,1,NAm,tung

@@ -1,1 +1,0 @@
-DanhBa{name='Tùng', phoneNumber=123, adress='HN', nhom='Vip', gender='Nam'}
